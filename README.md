@@ -1,6 +1,6 @@
 # Laravel Scaffolding - Basic Template
 
-This is a Laravel Template that preinstalled and preconfigured with packages that I usually use for basically any Laravel template. This template includes:
+This is a Laravel Template that preinstalled and preconfigured with packages that I usually use for basically any Laravel project. This template includes:
 
 - Command to create make facade, contract, service, and extend collection.
   - facade: `php artisan make:facade <name> <service_name>` => [https://laravel.com/docs/11.x/facades](https://laravel.com/docs/11.x/facades)
@@ -10,8 +10,11 @@ This is a Laravel Template that preinstalled and preconfigured with packages tha
 - Laravel Telescope => [https://laravel.com/docs/11.x/telescope](https://laravel.com/docs/11.x/telescope)
 - Laravel Pulse => [https://laravel.com/docs/11.x/pulse](https://laravel.com/docs/11.x/pulse)
 - Inertia with React + Typescript => [https://inertiajs.com/](https://inertiajs.com/)
+- Laravel Ide Helper => [https://github.com/barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
+- Laravel Debugbar => [https://github.com/barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
+- Laravel Backup => [https://spatie.be/docs/laravel-backup/v8/introduction](https://spatie.be/docs/laravel-backup/v8/introduction)
 
-This template integrates monitoring for your application, including one of the great JS Front-End library and type safety. Great for starting new simple project that had not many requirements.
+This template integrates monitoring for your application, Debugging Panel, IDE Helper, Project backup, including one of the great JS Front-End library and type safety. Great for starting new simple project that had not many requirements.
 
 For more full fleged template that implements all aspects of ideals of web development, you can [check out this repo]().
 
