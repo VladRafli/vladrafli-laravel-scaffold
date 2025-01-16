@@ -1,3 +1,22 @@
+# Laravel Scaffolding - Basic Template
+
+This is a Laravel Template that preinstalled and preconfigured with packages that I usually use for basically any Laravel template. This template includes:
+
+- Command to create make facade, contract, service, and extend collection.
+  - facade: `php artisan make:facade <name> <service_name>` => [https://laravel.com/docs/11.x/facades](https://laravel.com/docs/11.x/facades)
+  - contract: `php artisan make:contract <name>` => [https://laravel.com/docs/11.x/contracts#main-content](https://laravel.com/docs/11.x/contracts#main-content)
+  - service: `php artisan make:service <name>` => [https://laravel.com/docs/11.x/facades](https://laravel.com/docs/11.x/facades)
+  - collection: `php artisan make:collection <name>` => [https://medium.com/@harrisrafto/supercharge-your-laravel-models-with-custom-collections-0b49e8f9d68c](https://medium.com/@harrisrafto/supercharge-your-laravel-models-with-custom-collections-0b49e8f9d68c)
+- Laravel Telescope => [https://laravel.com/docs/11.x/telescope](https://laravel.com/docs/11.x/telescope)
+- Laravel Pulse => [https://laravel.com/docs/11.x/pulse](https://laravel.com/docs/11.x/pulse)
+- Inertia with React + Typescript => [https://inertiajs.com/](https://inertiajs.com/)
+
+This template integrates monitoring for your application, including one of the great JS Front-End library and type safety. Great for starting new simple project that had not many requirements.
+
+For more full fleged template that implements all aspects of ideals of web development, you can [check out this repo]().
+
+## Word from Framework
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
